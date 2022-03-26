@@ -9,19 +9,27 @@ The Reading and Math grades for all ninth graders at THS show evidence of being 
 * ### How the district summary affected?
 
    The district summary didn't change much. Less than .25 of a difference.
+  
+  before:
    
    ![ds 1](https://user-images.githubusercontent.com/99618784/160259587-9f852e26-328d-488f-adfc-58b50496199c.PNG)
-
+  
+  after:
+   
    ![ds 2](https://user-images.githubusercontent.com/99618784/160259593-28d98c8b-6302-40f2-8cc7-da00463ce122.PNG)
 
 
 * ### How the school summary was affected:
    
    -Positively. Prior to replacing the scores for 9th grade, Thomas High School had an overall passing of just 65%. Afterwards the overall passing percentage was 90%. 
+ 
+ before:
   
   ![ss 1](https://user-images.githubusercontent.com/99618784/160257566-e6a34bf2-aca5-41a7-91ea-09c4ddc2ce13.png)
-
-  ![ss 2](https://user-images.githubusercontent.com/99618784/160257917-2ad0a102-5159-4421-82d0-6f69eb675aaf.png)
+ 
+ after:
+ 
+ ![ss 2](https://user-images.githubusercontent.com/99618784/160257917-2ad0a102-5159-4421-82d0-6f69eb675aaf.png)
 
 
 * ### How replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
