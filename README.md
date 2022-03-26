@@ -8,8 +8,13 @@ The Reading and Math grades for all ninth graders at THS show evidence of being 
 
 * How the district summary affected?
 
-* How the school summary was affected positively 
-![ss 1](https://user-images.githubusercontent.com/99618784/160257566-e6a34bf2-aca5-41a7-91ea-09c4ddc2ce13.png)
+* How the school summary was affected:
+   
+   -Prior to removing the  
+  ![ss 1](https://user-images.githubusercontent.com/99618784/160257566-e6a34bf2-aca5-41a7-91ea-09c4ddc2ce13.png)
+
+  ![ss 2](https://user-images.githubusercontent.com/99618784/160257917-2ad0a102-5159-4421-82d0-6f69eb675aaf.png)
+
 
 * How replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
