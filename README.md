@@ -89,10 +89,10 @@ The Reading and Math grades for all ninth graders at THS show evidence of being 
    ![scores new](https://user-images.githubusercontent.com/99618784/160260485-71cf1d58-0bf6-414c-83ce-b49e9c7d3532.PNG)
 
 
+## Summary: 
+The biggest change that we notcied was the jump Thomas High School made into the Top performing schools. THS had a 25% increase once we replaced the 9th grade values. 
 
 
 
 
 
-
-## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
