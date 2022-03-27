@@ -91,7 +91,7 @@ The Reading and Math grades for all ninth graders at THS show evidence of being 
 
 ## Summary: 
 The biggest change that we notcied was the jump Thomas High School made into the Top performing schools. THS had a 25% increase once we replaced the 9th grade values. 
-
+Along with the overall percentage increase, the math passing percentages increased while the reading remained the same. 
 
 
 
